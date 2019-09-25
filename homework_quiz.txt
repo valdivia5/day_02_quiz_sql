@@ -36,6 +36,3 @@ Q11. What are their return values?
 nil, an array and a hash and the variable called found_property
 
 
-git init
-git add .
-git commit -m "message"
